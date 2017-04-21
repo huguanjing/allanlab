@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Guanjing Hu"
 sitemap: false
 permalink: /allnews.html
 ---
